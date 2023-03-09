@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.part.html": "parthtml"
+  },
+  "[parthtml]": {
+    "html.autoClosingTags": false
+  },
+  "emmet.includeLanguages": {
+    "parthtml": "html"
+  }
+}
